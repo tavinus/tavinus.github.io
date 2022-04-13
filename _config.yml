@@ -16,10 +16,10 @@
 title: TavBlog
 email: guneves@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Tavinus Blog
-twitter_username: tavinus
+  Tavinus Bits and Bites
+#twitter_username: tavinus
 github_username: tavinus
-minimal_mistakes_skin: contrast
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
