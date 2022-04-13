@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Tavinus"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/ava.jpg"
   bio    : "Been there. Done That."
   links:
     - label: "Website"
