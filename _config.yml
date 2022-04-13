@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Tavinus Bits and Bites
 #twitter_username: tavinus
 github_username: tavinus
-minimal_mistakes_skin: air
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
