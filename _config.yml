@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Tavinus"
   avatar : "/assets/images/ava.jpg"
-  bio    : "Been there. Done That."
+  bio    : "I like snippets..."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
