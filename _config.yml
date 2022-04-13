@@ -19,8 +19,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Tavinus Bits and Bites
 #twitter_username: tavinus
 github_username: tavinus
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: contrast
 search: true
+repository: tavinus/tavinus.github.io
 
 # Build settings
 markdown: kramdown
@@ -98,6 +99,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
@@ -112,3 +114,14 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+comments:
+  provider: "giscus"
+  giscus:
+    repo_id              : "R_kgDOHKxjaw"
+    category_name        : "SiteComments"
+    category_id          : "DIC_kwDOHKxja84COj2Y"
+    discussion_term      : "pathname"
+    reactions_enabled    : "1"
+    theme                : "light"
+
